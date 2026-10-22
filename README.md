@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230F2044.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedmufeez)
 [![Gmail](https://img.shields.io/badge/Gmail-%230F2044.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mufeez02@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%230F2044.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IT22320896)
+[![GitHub](https://img.shields.io/badge/GitHub-%230F2044.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedmufeez)
 
 </div>
 
