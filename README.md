@@ -95,13 +95,13 @@ education : BSc Software Engineering — SLIIT  |  CGPA 3.64  |  Dean's List
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=IT22320896&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=7aa8ff&icon_color=7aa8ff&text_color=c9d1d9&border_color=1a3a6b&count_private=true&hide_border=false" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=mohamedmufeez&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=7aa8ff&icon_color=7aa8ff&text_color=c9d1d9&border_color=1a3a6b&count_private=true&hide_border=false" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT22320896&layout=compact&theme=github_dark&bg_color=0d1117&title_color=7aa8ff&text_color=c9d1d9&border_color=1a3a6b&hide_border=false&langs_count=8" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmufeez&layout=compact&theme=github_dark&bg_color=0d1117&title_color=7aa8ff&text_color=c9d1d9&border_color=1a3a6b&hide_border=false&langs_count=8" />
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/1a3a6b/IT22320896" alt="GitHub Contribution Graph" width="95%"/>
+<img src="https://ghchart.rshah.org/1a3a6b/mohamedmufeez" alt="GitHub Contribution Graph" width="95%"/>
 
 </div>
 
